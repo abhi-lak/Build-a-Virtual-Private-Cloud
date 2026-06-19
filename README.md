@@ -128,8 +128,6 @@ o set up a VPC or a subnet, you can use the command aws ec2 create-vpc or aws ec
 
 Make sure to avoid errors by including a correctly formatted CIDR block, ensuring that the subnet CIDR range falls completely within the VPC's CIDR range, and using a subnet size that is smaller than the VPC. It's also important to verify that the CIDR blocks do not overlap with existing networks and that all command parameters are entered correctly. Incorrect CIDR notation or an invalid subnet range are common causes of errors when creating VPC resources with the AWS CLI.
 
-![Image](http://learn.nextwork.org/enthusiastic_navy_agile_cape_gooseberry/uploads/aws-networks-vpc_9b2465411)
-
 ### Comparing CloudShell vs AWS Console
 
 Compared to using the AWS Console, an advantage of using commands is that they are faster, easier to automate, and can be reused in scripts to create infrastructure consistently. The AWS CLI is especially useful when managing multiple resources or performing repetitive tasks because it reduces manual effort and supports Infrastructure as Code practices.
