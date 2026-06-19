@@ -1,19 +1,12 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 
 # Build a Virtual Private Cloud
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
 
 **Author:** Abhishek Iyer  
 **Email:** aiyer084@gmail.com
 
----
-
 ## Build a Virtual Private Cloud (VPC)
 
-![Image](http://learn.nextwork.org/enthusiastic_navy_agile_cape_gooseberry/uploads/aws-networks-vpc_2facf927)
-
----
 
 ## Introducing Today's Project!
 
